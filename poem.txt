@@ -2,6 +2,7 @@ The Rainbow
 purple
 green
 blue
+orange
 red
 pink
 These are the colors of rainbow.
